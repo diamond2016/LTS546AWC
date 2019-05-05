@@ -1,5 +1,5 @@
 /*
-  LedDigit
+  Liblts546awc
 
   Controls one digit element LED
   Type common anode
