@@ -45,7 +45,7 @@ void loop() {
 
 void count() {
   for (int i = 0; i < 10; i++) {
-    ledModule-setDigit(i);
+    ledModule.setDigit(i);
     delay(digitDelay);
   }             
 }
